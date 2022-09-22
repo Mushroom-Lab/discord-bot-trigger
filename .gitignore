@@ -3,9 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# pem 
+*.pem
+# config
+config.yaml
 # C extensions
 *.so
-
+#nohup log
+nohup.out
 # Distribution / packaging
 .Python
 build/
